@@ -2,6 +2,7 @@ namespace Test2
 {
     public class WeatherForecast
     {
+        public string testcicd { get; set; }
         public string testpipeline { get; set; }
         public string testabc { get; set; }
         public string testweb { get; set; }
