@@ -2,7 +2,7 @@ namespace Test2
 {
     public class WeatherForecast
     {
-
+        public string testpepiline { get; set; }
         public string testabc { get; set; }
         public string testweb { get; set; }
         public string HongNhien { get; set; }
