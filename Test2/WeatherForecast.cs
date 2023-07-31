@@ -2,6 +2,7 @@ namespace Test2
 {
     public class WeatherForecast
     {
+        public string HongNhien { get; set; }
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
