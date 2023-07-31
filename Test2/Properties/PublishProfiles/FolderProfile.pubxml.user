@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\NHIEN\OneDrive\Project\Test2\Test2\bin\Release\net6.0\publish\</_PublishTargetUrl>
-    <History>True|2023-07-31T09:01:22.5597061Z;True|2023-07-31T16:01:01.4613259+07:00;</History>
+    <History>True|2023-07-31T09:16:37.0316359Z;True|2023-07-31T16:12:45.1902788+07:00;True|2023-07-31T16:01:22.5597061+07:00;True|2023-07-31T16:01:01.4613259+07:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
